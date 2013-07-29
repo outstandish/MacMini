@@ -2,18 +2,17 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
-
 .status {
-	border-bottom: solid 1px #ccc;
-	padding: 5px 0px;
+	border-bottom: solid 1px #CCC;
+	padding: 5px 0;
 }
 
 .status p {
-	margin: 4px 0px;
+	margin: 4px 0;
 }
 
 .status.hover {
-	background: #87CEFA;
+	background: #FAFAFA;
 }
 
 .status .admin {
